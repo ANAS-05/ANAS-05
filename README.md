@@ -4,10 +4,10 @@
 ANAS-05/ANAS-05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm Anas</h1>
+<h1 align="left">Hi 👋, I'm Anas</h1>
 
 <h3 align="left">A passionate developer from India</h3>
-<h3 align="left">- I’m currently learning Math for ML</h3>
+<h3 align="left">I’m currently learning Math for ML</h3>
 <h3 align="left">I’m interested in Machine Learning</h3>
 
 
