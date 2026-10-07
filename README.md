@@ -8,6 +8,8 @@ You can click the Preview link to take a look at your changes.
 
 **Software Engineer — Data & AI Systems**
 
+Building systems that create real value for business.
+
 🌐 https://anassyed.com · 💼 https://www.linkedin.com/in/anas-syed05/ · 📍 Hyderabad, IN
 
 ---
@@ -22,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Credential
 
-- **Google Cloud Professional Data Engineer (2026–2028)** — Verify: https://www.credly.com/badges/0fd88bff-9a18-46d4-bfd7-964142e24664/public_url
+- **Google Cloud Professional Data Engineer (2026–2028)** — [Verify credential](https://www.credly.com/badges/0fd88bff-9a18-46d4-bfd7-964142e24664/public_url)
 
 ### Background
 
