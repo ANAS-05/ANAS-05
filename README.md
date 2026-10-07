@@ -37,4 +37,26 @@ Building systems that create real value for business.
 
 ### Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,flask,firebase,supabase,react,tailwind,html,css,js,c,cpp,git,sqlite,postman)](https://skillicons.dev)
+<p align="left">
+  <img src="https://anassyed.com/technologies/python.svg" width="32" height="32" alt="Python" title="Python" />
+  <img src="https://anassyed.com/technologies/typescript.svg" width="32" height="32" alt="TypeScript" title="TypeScript" />
+  <img src="https://anassyed.com/technologies/javascript.svg" width="32" height="32" alt="JavaScript" title="JavaScript" />
+  <img src="https://anassyed.com/technologies/cplusplus.svg" width="32" height="32" alt="C++" title="C++" />
+  <img src="https://anassyed.com/technologies/fastapi.svg" width="32" height="32" alt="FastAPI" title="FastAPI" />
+  <img src="https://anassyed.com/technologies/flask.svg" width="32" height="32" alt="Flask" title="Flask" />
+  <img src="https://anassyed.com/technologies/react.svg" width="32" height="32" alt="React" title="React" />
+  <img src="https://anassyed.com/technologies/sqlite.svg" width="32" height="32" alt="SQLite" title="SQLite" />
+  <img src="https://anassyed.com/technologies/tailwindcss.svg" width="32" height="32" alt="Tailwind" title="Tailwind" />
+  <img src="https://anassyed.com/technologies/html.svg" width="32" height="32" alt="HTML" title="HTML" />
+  <img src="https://anassyed.com/technologies/css.svg" width="32" height="32" alt="CSS" title="CSS" />
+  <img src="https://anassyed.com/technologies/postman.svg" width="32" height="32" alt="Postman" title="Postman" />
+  <img src="https://anassyed.com/technologies/vercel.svg" width="32" height="32" alt="Vercel" title="Vercel" />
+  <img src="https://anassyed.com/technologies/docker.svg" width="32" height="32" alt="Docker" title="Docker" />
+  <img src="https://anassyed.com/technologies/gcp.svg" width="32" height="32" alt="GCP" title="GCP" />
+  <img src="https://anassyed.com/technologies/google-bigquery.svg" width="32" height="32" alt="BigQuery" title="BigQuery" />
+  <img src="https://anassyed.com/technologies/azure-sql.svg" width="32" height="32" alt="Azure SQL" title="Azure SQL" />
+  <img src="https://anassyed.com/technologies/azure-blob-storage.svg" width="32" height="32" alt="Blob Storage" title="Blob Storage" />
+  <img src="https://anassyed.com/technologies/power-bi.svg" width="32" height="32" alt="Power BI" title="Power BI" />
+  <img src="https://anassyed.com/technologies/langchain.svg" width="32" height="32" alt="LangChain" title="LangChain" />
+  <img src="https://anassyed.com/technologies/opencv.svg" width="32" height="32" alt="OpenCV" title="OpenCV" />
+</p>
